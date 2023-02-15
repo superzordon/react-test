@@ -12,7 +12,7 @@ function App() {
                   console.log("Getting warmer...")
                   setPasswordSubmitted(true);
                   // @ts-ignore
-                  if (ev.target.password.value === 'diamondhands') {
+                  if (ev.target.password.value === 'prosperity') {
                       setIsPasswordCorrect(true);
                   } else {
                   }
